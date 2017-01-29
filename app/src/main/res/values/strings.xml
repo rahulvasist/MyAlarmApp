@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAlarmApp</string>
+    <string name="alarm_file">com.example.rahul.myalarmapp.alarms</string>
+</resources>
